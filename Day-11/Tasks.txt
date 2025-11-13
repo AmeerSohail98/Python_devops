@@ -1,0 +1,12 @@
+We are going to fetch the data of pull requests for specific git hub repositories and going to use python for it
+
+Task -1:Get pull request information on a repo using python
+------>we can use any of our own projects are opensource projects(here kubernetes is used by abhishek)
+
+Steps to create algorithm
+1. Check for modules of python to connect with github api---(request module is famous one)
+2. Know the API of pull request by checking the github api url.
+3. we will get information in json so we need to convert the information into dictionary format
+4. Print the data (usernames)
+
+Task-2: get how many pull requests done by each user for kubernetes
