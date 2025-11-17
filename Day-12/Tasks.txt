@@ -1,0 +1,13 @@
+---> Write a python script for a file called server.conf when max connection are increased from 200 to 500
+It should update the max_connection value of files also that how many connections it gain.
+
+
+# Algorithm for the program
+
+1.Read the file in read mode
+
+2.Variable to store the data in the list or any other format
+
+3.open file in the write mode
+
+4.Update max_connections Variable
